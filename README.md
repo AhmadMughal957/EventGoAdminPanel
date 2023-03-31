@@ -1,16 +1,4 @@
 # event_go_adminpanel
 
-A new Flutter project.
+![Screenshot (111)](https://user-images.githubusercontent.com/127927328/229217132-453a4f56-7b67-4f50-b5d7-50100f7118de.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
